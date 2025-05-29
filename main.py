@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 import requests
 
-api_key = "8aebc1c5e2974d7ca05125456252905"
+api_key = "ENTER_YOUR_API_KEY_HERE"
 
 list_of_cities = [
     "New York, US",
